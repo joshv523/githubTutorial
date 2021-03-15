@@ -4,4 +4,6 @@ body {
 
 h1 {
   text-align: center;
+  font-family: Verdana, sans-serif;
+  border: 2px solid red;
 }
